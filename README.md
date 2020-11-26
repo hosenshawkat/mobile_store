@@ -1,2 +1,2 @@
 # mobile_store
-#Create mobile store using hatml
+#Create mobile store using html
